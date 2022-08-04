@@ -8,6 +8,10 @@ body {
     font-family: 'Righteous', sans-serif;
 }
 
+h1 {
+    font-size: 40pt;
+}
+
 .card {
     width: 110px;
     height: 110px;
