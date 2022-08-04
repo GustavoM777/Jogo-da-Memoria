@@ -8,7 +8,7 @@ body {
     font-family: 'Righteous', sans-serif;
 }
 
-h1 {
+.parabens h1 {
     font-size: 40pt;
 }
 
@@ -157,8 +157,8 @@ h1 {
         align-items: center;
     }
 
-    .parabens {
-        font-size: 8pt;
+    .parabens h1 {
+        font-size: 15pt;
     }
 }
 
